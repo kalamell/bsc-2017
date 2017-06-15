@@ -49,6 +49,7 @@
                                 <div class="col-md-12">
                                     <div class="banner1">
                                         <img src="<?php echo base_url();?>assets/images/isobar-dev/banner.jpg" alt="">
+
                                         <img src="<?php echo base_url();?>assets/images/isobar-dev/banner.jpg" alt="">
                                     </div>
                                 </div>
