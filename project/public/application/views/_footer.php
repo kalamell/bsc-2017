@@ -124,6 +124,7 @@
 </script><script type='text/javascript' src='<?php echo base_url();?>assets/js/jquery.waypoints.js'>
 </script><script type='text/javascript' src='<?php echo base_url();?>assets/js/frontend2.js'>
 </script><script type='text/javascript' src='<?php echo base_url();?>assets/js/inline.js'>
+<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
 </script>
 <script
   src="https://code.jquery.com/jquery-3.2.1.min.js"
@@ -134,6 +135,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.16.0/jquery.validate.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.16.0/additional-methods.min.js"></script>
 <script>
+    $('.banner1').slick();
     $('.banner-bg').vegas({
         overlay: false,
         transition: 'fade',

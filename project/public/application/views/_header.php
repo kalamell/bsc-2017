@@ -29,6 +29,9 @@
             input.error, select.error { margin-bottom: 2px !important; color: red !important; }
             label.error { color: red !important; }
         </style>
+        <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
+        <!-- Add the slick-theme.css if you want default styling -->
+        <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick-theme.css"/>
     </head>
     <body class="">
         <div id="preloader">
@@ -41,7 +44,17 @@
             <div id="main" class="site-main">
                 <div class="wrapper">
                     <div class="banner">
-                        <div class="banner-bg">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="banner1">
+                                        <img src="<?php echo base_url();?>assets/images/isobar-dev/banner.jpg" alt="">
+                                        <img src="<?php echo base_url();?>assets/images/isobar-dev/banner.jpg" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- <div class="banner-bg">
                             <div class="container">
                                 <div class="login-box" style="visibility: hidden;">
                                     <h1>LOGIN</h1>
@@ -69,6 +82,6 @@
                                     </form>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
