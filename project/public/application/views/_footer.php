@@ -137,7 +137,9 @@
 
 <script>
     $('.banner1').slick();
+
     $('.banner2').slick();
+
     $('.banner-bg').vegas({
         overlay: false,
         transition: 'fade',
