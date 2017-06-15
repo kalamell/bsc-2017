@@ -5,6 +5,7 @@
         <title>
             <?php echo $title;?>
         </title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel='stylesheet' href='<?php echo base_url();?>assets/css/inline.css' type='text/css' media='all' />
         <link rel='stylesheet' id='animate-css-css' href='<?php echo base_url();?>assets/css/animate.min.css' type='text/css' media='all' />
         <link rel='stylesheet' id='font-awesome-css' href='<?php echo base_url();?>assets/css/font-awesome.min.css' type='text/css' media='all' />
