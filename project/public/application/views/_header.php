@@ -29,9 +29,10 @@
             input.error, select.error { margin-bottom: 2px !important; color: red !important; }
             label.error { color: red !important; }
         </style>
+
         <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
-        <!-- Add the slick-theme.css if you want default styling -->
         <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick-theme.css"/>
+
     </head>
     <body class="">
         <div id="preloader">

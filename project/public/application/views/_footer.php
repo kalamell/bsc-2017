@@ -123,11 +123,9 @@
 </script><script type='text/javascript' src='<?php echo base_url();?>assets/js/jquery.magnific-popup.min.js'>
 </script><script type='text/javascript' src='<?php echo base_url();?>assets/js/jquery.waypoints.js'>
 </script><script type='text/javascript' src='<?php echo base_url();?>assets/js/frontend2.js'>
-</script><script type='text/javascript' src='<?php echo base_url();?>assets/js/inline.js'>
 </script>
-
+<script type='text/javascript' src='<?php echo base_url();?>assets/js/inline.js'></script>
 <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
-
 <script
   src="https://code.jquery.com/jquery-3.2.1.min.js"
   integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
