@@ -109,17 +109,17 @@
                                                             <div class="azen-univer-mission-text">
                                                                 <div class="azen-info-header" data-group="About header">
                                                                     <div class="title-view" id="title-view">
-                                                                        <h2>#ทำสิ่งที่ชอบเป็นอาชีพที่ใช่</h2>
+                                                                        <h2>สอบครั้งสำคัญ มุ่งมั่นทำให้เต็มที่</h2>
                                                                         <!-- <a href="">All News</a> -->
                                                                     </div>
                                                                 </div>
                                                                 <div class="azen-info-description" data-group="About description">
                                                                     <div>
-                                                                       <p>เพราะโอกาสมีอยู่ในทุกที่ และโลกนี้มีอาชีพหลากหลายกว่าที่เราเคยคิด คิดต่างให้หลุดจากกรอบเดิมๆ สร้างสรรค์ ต่อยอด มาพิสูจน์ให้ทุกคนเห็นว่า สิ่งที่ชอบก็เป็นอาชีพที่ใช่ได้<br>#เติมความตั้งใจให้ชีวิตไปถึง .. แบรนด์ซุปไก่สกัด</p>
+                                                                       <p>แบรนด์ขอส่งกำลังใจให้กับน้องๆทุกคน ผ่านบทเพลง “ชัยชนะ” เพราะสอบครั้งสำคัญ ต้องมุ่งมั่นทำให้เต็มที่... เชื่อว่าทุกคนทำได้ สู้สู้นะครับ! #ทุ่มเทไม่หยุดสู่ทุกจุดหมาย</p>
                                                                     </div>
                                                                 </div>
                                                                 <div class="azen-info-button" data-group="About button">
-                                                                    <a href="https://www.youtube.com/watch?v=PbemRHEW3mg">Read more <span></span></a>
+                                                                    <a href="https://www.youtube.com/watch?v=hQMADgKo9mo">Read more <span></span></a>
                                                                 </div>
                                                             </div>
                                                         </div>
