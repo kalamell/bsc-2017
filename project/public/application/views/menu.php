@@ -22,9 +22,7 @@
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page">
                                     <a href="" class="menu-link">ติวเตอร์</a>
                                 </li>
-                                <li class="menu-item menu-item-type-post_type menu-item-object-page">
-                                    <a href="" class="menu-link">ติวเตอร์ออนไลน์</a>
-                                </li>
+
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page">
                                     <a href="" class="menu-link">ดาวน์โหลด</a>
                                 </li>
@@ -34,6 +32,11 @@
                             </ul>
 
                         </li>
+
+                        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+                            <a href="" class="menu-link">ติวเตอร์ออนไลน์</a>
+                        </li>
+
                         <!--<li class="menu-item menu-item-type-post_type menu-item-object-page">
                             <a href="" class="menu-link">แรงบันดาลใจ</a>
                         </li>-->
@@ -89,9 +92,7 @@
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page">
                                     <a href="" class="menu-link">ติวเตอร์</a>
                                 </li>
-                                <li class="menu-item menu-item-type-post_type menu-item-object-page">
-                                    <a href="" class="menu-link">ติวเตอร์ออนไลน์</a>
-                                </li>
+
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page">
                                     <a href="" class="menu-link">ดาวน์โหลด</a>
                                 </li>
@@ -108,6 +109,9 @@
                         <!--<li class="menu-item menu-item-type-post_type menu-item-object-page">
                             <a href="" class="menu-link">แนวข้อสอบ</a>
                         </li>-->
+                        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+                            <a href="" class="menu-link">ติวเตอร์ออนไลน์</a>
+                        </li>
 
                         <li class="menu-item menu-item-type-post_type menu-item-object-page">
                             <a href="" class="menu-link">ถาม-ตอบ</a>
