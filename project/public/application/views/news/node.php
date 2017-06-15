@@ -103,9 +103,9 @@
                                                                     <?php endif;?>
 
                                                                     <?php if ($rs->id==2):?>
-                                                                        <img src="http://www.poszee.com/images/isobar-dev/bsc2801.png" alt=""><br>
+                                                                        <img src="http://www.poszee.com/images/bsc2801.png" alt=""><br>
 
-                                                                        <img src="http://www.poszee.com/images/isobar-dev/bsc2802.png" alt=""><br>
+                                                                        <img src="http://www.poszee.com/images/bsc2802.png" alt=""><br>
                                                                     <?php endif;?>
                                                                 </span>
                                                             </div>
