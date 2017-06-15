@@ -101,6 +101,11 @@
                                                                         <iframe width="560" height="560" src="https://www.youtube.com/embed/TEBAmOY1emQ?ecver=1" frameborder="0" allowfullscreen></iframe>
 
                                                                     <?php endif;?>
+
+                                                                    <?php if ($rs->id==2):?>
+                                                                        <img src="<?php echo base_url();?>assets/images/isobar-dev/bsc2801.png" alt=""><br>
+                                                                        <img src="<?php echo base_url();?>assets/images/isobar-dev/bsc2802.png" alt=""><br>
+                                                                    <?php endif;?>
                                                                 </span>
                                                             </div>
                                                         </div>
