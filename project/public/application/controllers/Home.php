@@ -21,7 +21,7 @@ class Home extends Frontend_Controller {
         $data = array(
             'news_first' => $news_first,
             'news_other' => $news_other,
-            'title' => 'แบรนด์ซัมเมอร์แคมป์ปีที่ 28'
+            'title' => 'แบรนด์ซัมเมอร์แคมป์ปีที่29'
         );
 
         $this->render('home', $data);

@@ -30,14 +30,14 @@
                                     <div class="azen azen1 azen2 azen3" data-group="Footer Middle">
                                         <div class="azen-univer-footer-middle" data-full-width="true" data-stretch-content="false" data-without-padding="false">
                                             <div class="azen-row">
-                                                <div class="azen-col-sm-12 azen-col-md-2">
+                                                <div class="azen-col-sm-12 azen-col-md-2" style="display: none;">
                                                     <div class="azen-fotter-list" data-group="footer-list">
                                                         <div class="azen-list-title">
                                                             <a href="index.html">หน้าแรก</a>
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="azen-col-sm-12 azen-col-md-2">
+                                                <div class="azen-col-sm-12 azen-col-md-3">
                                                     <div class="azen-fotter-list" data-group="footer-list">
                                                         <div class="azen-list-title">
                                                             แบรนด์ซัมเมอร์แคมป์
@@ -57,7 +57,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="azen-col-sm-12 azen-col-md-2">
+                                                <div class="azen-col-sm-12 azen-col-md-3">
                                                     <div class="azen-fotter-list" data-group="footer-list">
                                                         <div class="azen-list-title">
                                                             แบรนด์ซัมเมอร์แคมป์สัญจร
@@ -67,7 +67,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                 <div class="azen-col-sm-12 azen-col-md-2">
+                                                 <div class="azen-col-sm-12 azen-col-md-3">
                                                     <div class="azen-fotter-list" data-group="footer-list">
                                                         <div class="azen-list-title">
                                                             แนวข้อสอบ
@@ -79,7 +79,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="azen-col-sm-12 azen-col-md-2">
+                                                <div class="azen-col-sm-12 azen-col-md-3">
                                                     <div class="azen-fotter-list" data-group="footer-list">
                                                         <div class="azen-list-title">
                                                             ถาม-ตอบ
