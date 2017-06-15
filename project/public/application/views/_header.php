@@ -25,7 +25,6 @@
                 line-height: 60px !important;
                 color: #333 !important;
             }
-
             input.error, select.error { margin-bottom: 2px !important; color: red !important; }
             label.error { color: red !important; }
         </style>
@@ -50,7 +49,7 @@
                                 <div class="col-md-12">
                                     <div class="banner1">
                                         <img src="<?php echo base_url();?>assets/images/isobar-dev/banner.jpg" alt="">
-
+                                        <img src="<?php echo base_url();?>assets/images/isobar-dev/banner.jpg" alt="">
                                         <img src="<?php echo base_url();?>assets/images/isobar-dev/banner.jpg" alt="">
                                     </div>
                                 </div>
