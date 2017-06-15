@@ -1,7 +1,7 @@
 <header id="masthead" class="site-header clearfix">
     <div class="header-main clearfix">
         <div class="header-parts container">
-            <a class="site-title" href="index.html" rel="home"><img src="<?php echo base_url();?>assets/images/isobar-dev/logo.png" alt="logo" /></a>
+            <a class="site-title" href="<?php echo site_url();?>" rel="home"><img src="<?php echo base_url();?>assets/images/isobar-dev/logo.png" alt="logo" /></a>
             <div class="mobile-menu-button">
                 <span><i class="fa fa-bars"></i></span>
             </div>
