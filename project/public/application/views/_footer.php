@@ -20,7 +20,7 @@
                                                 <div class="azen-col-sm-12 azen-col-md-4 azen-table-cell">
                                                     <div class="azen-top-button">
                                                         <div>
-                                                            <a href="#">register</a>
+                                                            <a href="<?php echo site_url('register');?>">register</a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -43,7 +43,7 @@
                                                             แบรนด์ซัมเมอร์แคมป์
                                                         </div>
                                                         <div class="azen-list-content" data-cloneable="">
-                                                            <span><a href="/">ตาราง แบรนด์ซัมเมอร์แคมป์/a></span> <span><a href="tutor.html">ติวเตอร์</a></span> <span><a href="/">ติวออนไลน์</a></span> <span><a href="/">ดาวน์โหลด</a></span>
+                                                            <span><a href="/">ตาราง แบรนด์ซัมเมอร์แคมป์</a></span> <span><a href="tutor.html">ติวเตอร์</a></span> <span><a href="/">ติวออนไลน์</a></span> <span><a href="/">ดาวน์โหลด</a></span>
                                                         </div>
                                                     </div>
                                                 </div>

@@ -13,10 +13,10 @@
                         </li>
 
                         <li class="menu-item menu-item-type-custom menu-item-object-custom">
-                            <a href="#" class="menu-link">แบรนด์ซัมเมอร์แคมป์ ปีที่28</a>
+                            <a href="#" class="menu-link">แบรนด์ซัมเมอร์แคมป์ปีที่28</a>
                             <ul class="sub-menu">
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page">
-                                    <a href="" class="menu-link">ตาราง แบรนด์ซัมเมอร์แคมป์</a>
+                                    <a href="" class="menu-link">ตารางแบรนด์ซัมเมอร์แคมป์</a>
                                 </li>
 
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page">
@@ -80,10 +80,10 @@
                         </li>
 
                         <li class="menu-item menu-item-type-custom menu-item-object-custom">
-                            <a href="#" class="menu-link">แบรนด์ซัมเมอร์แคมป์ ปีที่28</a>
+                            <a href="#" class="menu-link">แบรนด์ซัมเมอร์แคมป์ปีที่28</a>
                             <ul class="sub-menu">
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page">
-                                    <a href="" class="menu-link">ตาราง แบรนด์ซัมเมอร์แคมป์</a>
+                                    <a href="" class="menu-link">ตารางแบรนด์ซัมเมอร์แคมป์</a>
                                 </li>
 
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page">
