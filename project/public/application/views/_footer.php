@@ -40,10 +40,10 @@
                                                 <div class="azen-col-sm-12 azen-col-md-2">
                                                     <div class="azen-fotter-list" data-group="footer-list">
                                                         <div class="azen-list-title">
-                                                            Brand Summer Camp
+                                                            แบรนด์ซัมเมอร์แคมป์
                                                         </div>
                                                         <div class="azen-list-content" data-cloneable="">
-                                                            <span><a href="/">ตาราง BSC</a></span> <span><a href="tutor.html">ติวเตอร์</a></span> <span><a href="/">ติวออนไลน์</a></span> <span><a href="/">ดาวน์โหลด</a></span>
+                                                            <span><a href="/">ตาราง แบรนด์ซัมเมอร์แคมป์/a></span> <span><a href="tutor.html">ติวเตอร์</a></span> <span><a href="/">ติวออนไลน์</a></span> <span><a href="/">ดาวน์โหลด</a></span>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -53,14 +53,14 @@
                                                             แรงบันดาลใจ
                                                         </div>
                                                         <div class="azen-list-content" data-cloneable="">
-                                                            <span><a href="/">EX-BSC TedTalk</a></span>
+                                                            <span><a href="/">EX-แบรนด์ซัมเมอร์แคมป์TedTalk</a></span>
                                                         </div>
                                                     </div>
                                                 </div>
                                                 <div class="azen-col-sm-12 azen-col-md-2">
                                                     <div class="azen-fotter-list" data-group="footer-list">
                                                         <div class="azen-list-title">
-                                                            BSC สัญจร
+                                                            แบรนด์ซัมเมอร์แคมป์สัญจร
                                                         </div>
                                                         <div class="azen-list-content" data-cloneable="">
                                                             <span><a href="/">MV</a></span>
