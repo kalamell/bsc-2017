@@ -128,8 +128,8 @@
                                                 <div class="azen-col-xs-12 azen-col-sm-12 azen-col-md-6 azen-col-lg-6 azen-col-xs-offset-0 azen-col-sm-offset-0 azen-col-md-offset-0 azen-col-lg-offset-0" data-cloneable="">
                                                     <div data-element="univer/if-video.htm">
                                                         <div class="azen azen1 azen2 azen3">
-                                                            <div class="azen-univer-if-video" style="background-image: url(https://img.youtube.com/vi/PbemRHEW3mg/0.jpg);" data-darken-background="false">
-                                                                <a href="https://www.youtube.com/watch?v=PbemRHEW3mg" class="az-iframe-popup">
+                                                            <div class="azen-univer-if-video" style="background-image: url(https://img.youtube.com/vi/hQMADgKo9mo/0.jpg);" data-darken-background="false">
+                                                                <a href="https://www.youtube.com/watch?v=hQMADgKo9mo" class="az-iframe-popup">
                                                                     <div class="azen-content c32777ce" style=""></div>
                                                                 </a>
                                                             </div>
